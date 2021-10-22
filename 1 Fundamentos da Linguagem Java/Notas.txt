@@ -81,4 +81,32 @@ IF
 if (condição) instrução
 <= >= == !=
 
-test
+FOR 
+for(inicialização; condição; iteração) instrução;
+count++
+
+Crie blocos de código
+{...}
+
+Pronto e Vírgula e Posicionamento
+...;
+Quebra Legibilidade
+
+Práticas de Recuo
+Legibilidade
+
+Melhore o conversor
+#GalToLitTable.java
+
+As palabras-chave java
+50 exclusivas
+const GOTO
+true false null
+
+Identificadores em java
+_$abc_
+
+As bibliotecas de classes java
+System.out
+
+Teste do Capitulo 1
