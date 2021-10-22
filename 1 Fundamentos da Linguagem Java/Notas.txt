@@ -7,19 +7,76 @@ Bytecode
 Jargão
 
 Orientação a Objetos
+Essencia
+Fortran GOTO
+C Subrotina
+OO 
+Codigo Dados
+Dados Acesso
+
     Encapsulamento
+        Caixa Preta
+        Objeto Publico Privado
+        Classe Plano
+        Variaveis Instancia
+        Metodos
     Polimorfismo
+        Interface Volante
+        Rotinas Pilha
+        1N Interface Metodo
     Herança
+        Herda Classe
+        Subclasse Objeto
 
 JDK
+JDK 8
+javac java
+prompt x IDE 
+Bloat? Yep
 
-Primeiro Programa
+#Primeiro Programa
     Inserindo
+        Editor
+        Example.java
+        class Example {}
+
     Compilando
+        javac Example.java
+        Example.class
+        java Example
+        path
+
     Exemplo
+        /* Comentario */
+        class Example {...}
+        // Comentario
+        public static void main (String args[]) {...}
+        System.out.println("...");
+        CaseSensitive
 
 Tratando Erros
+Sintaxe error
+Linha ;
+Decifrar
 
-Extra
+Segundo
+#Example2
+variavel memoria
+int var1 // variavel inteira
+= atribuição
++ - * /
 
 Tipo de Dado
+int
+float double
+#example3
+10/4= 2
+10.0/4 = 2.5
+
+Conversor de Galoes
+#GalToLit.java
+
+Duas Intruções de Controle
+IF 
+if (condição) instrução
+<= >= == !=
